@@ -1,3 +1,3 @@
 # green
 Верстка адаптивной страницы.
-Посмотреть <a href="https://rustemnasyrov.github.io/green/">демо</a>.
+Посмотреть <a href="https://rustem-nasyrov.github.io/green/">демо</a>.
